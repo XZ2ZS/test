@@ -1,2 +1,2 @@
 # test
-a very simple test to know about how to use github
+a very simple test to learn about how to use github
